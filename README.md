@@ -47,8 +47,9 @@ Some Flights matching for You... =>
 Please shoose the flight for booking
 2
 
- **Congratulations **** Your Flight:2) XYZ Airlines Booked succesfully.** 
- **Referance NO. for your booking : =>  2) 1290231,53523,4324656,78867,2426475,78675**
+ Congratulations **** Your Flight:2) XYZ Airlines Booked succesfully. 
+ Referance NO. for your booking : =>  2) 1290231,53523,4324656,78867,2426475,78675
+
 BOT: action: Get_Tickets
 **User: dance show
 **Sorry, my knowledge is limited only to Flight Booking and Cancellation..
