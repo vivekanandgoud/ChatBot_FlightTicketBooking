@@ -29,17 +29,17 @@ BOT: Hey there  i am  Flight Ticket booking Chat Bot
  
  I can help you with finding Flight tickets
               ✈ ✈ ✈ ✈
-User: help me to find flight tickets
+    User: help me to find flight tickets
 BOT:  Sure Please enter Departure location(chennai/Tirupathi/Bangalore/Delhi/cochin) 
-User: chennai
+    User: chennai
 BOT:  Please Enter Destination location (Singapore/Mudurai/Mumbai/Hyderabad/jaipur)
-User: singapore
+    User: singapore
 BOT:  Please Enter Date of travel in format: DD/MM/YY available dates : 22/08/2019 ; 23/08/2019 ; 24/08/2019;25/08/2019;26/08/2019
-User: 22/08/2019
+    User: 22/08/2019
 BOT:  choose connection type cheap or fast?
-User: cheap
+    User: cheap
 BOT:  Please enter your ID min 6 digits
-User: 123456
+    User: 123456
 Some Flights matching for You... => 
 
 1) ABC Airlines
@@ -51,21 +51,24 @@ Please shoose the flight for booking
  Referance NO. for your booking : =>  2) 1290231,53523,4324656,78867,2426475,78675
 
 BOT: action: Get_Tickets
-**User: dance show
-**Sorry, my knowledge is limited only to Flight Booking and Cancellation..
-**User: movie
-**Sorry, my knowledge is limited only to Flight Booking and Cancellation..
-User: flight tickets
+
+    User: dance show
+    Sorry, my knowledge is limited only to Flight Booking and Cancellation..
+    
+    User: movie
+    Sorry, my knowledge is limited only to Flight Booking and Cancellation..
+
+  User: flight tickets
 BOT: Sure Please enter From location(chennai/Tirupathi/Bangalore/Delhi/cochin)
-User: bangalore
+  User: bangalore
 BOT: Please enter To Location(Singapore/Mudurai/Mumbai/Hyderabad/jaipur)
-User: mumbai
+  User: mumbai
 BOT:  Please Enter Date of travel in format: DD/MM/YY available dates : 22/08/2019 ; 23/08/2019 ; 24/08/2019;25/08/2019;26/08/2019
-User: 24/08/2019
+  User: 24/08/2019
 BOT:  choose connection type cheap or fast?
-User: fast
+  User: fast
 BOT:  Please enter your ID min 6 digits
-User: 123456
+  User: 123456
 Some Flights matching for You... => 
 
 1) Bangalore Airlines
